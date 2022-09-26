@@ -1,0 +1,11 @@
+ul li{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+}
+
+ul li:hover{
+color: orange;
+cursor: pointer;
+}
